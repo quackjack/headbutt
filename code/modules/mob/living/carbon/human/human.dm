@@ -1123,3 +1123,6 @@
 
 /mob/living/carbon/human/species/smutant
 	race = /datum/species/smutant
+
+/mob/living/carbon/human/species/sergal
+	race = /datum/species/sergal
